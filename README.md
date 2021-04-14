@@ -31,6 +31,7 @@ Your site should have links that are always visible that let the user navigate b
 
 ## Stretch stories
 1. All stretch goals from `auth-replay` are implemented. https://github.com/SEI-ATL-3-8/auth-replay
-1. In Single Business view, if I am logged in as the business's creator, there are buttons to edit and delete the business.
-1. In the All Business section, there is a search bar that lets me search businesses by name (ideally including partial and case-insensitive matches). There is also a type filter dropdown that lets me see business of just a specific type.
-1. In the List Your Business form, I can upload an image of the business. Suggested tools for this are multer and cloudinary, and their usage is described here: https://medium.com/@joeokpus/uploading-images-to-cloudinary-using-multer-and-expressjs-f0b9a4e14c54. (This is a good guide but not a hand-hold tutorial!)
+2. In Single Business view, I see the business's average rating.
+3. In Single Business view, if I am logged in as the business's creator, there are buttons to edit and delete the business.
+4. In the All Business section, there is a search bar that lets me search businesses by name (ideally including partial and case-insensitive matches). There is also a type filter dropdown that lets me see business of just a specific type.
+5. In the List Your Business form, I can upload an image of the business. Suggested tools for this are multer and cloudinary, and their usage is described here: https://medium.com/@joeokpus/uploading-images-to-cloudinary-using-multer-and-expressjs-f0b9a4e14c54. (This is a good guide but not a hand-hold tutorial!)
